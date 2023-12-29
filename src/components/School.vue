@@ -12,7 +12,7 @@ export default {
   ,mixins:[my_mix_one]
   ,data(){
     return {
-      name:"厦门测试学校 third commit"
+      name:"厦门测试学校 real third commit"
       ,address:"厦门软件园"
     }
   }
