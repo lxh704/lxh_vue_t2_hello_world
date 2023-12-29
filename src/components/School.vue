@@ -12,6 +12,7 @@ export default {
   ,mixins:[my_mix_one]
   ,data(){
     return {
+      // master 中 11111111
       // 这个是在hot fix中写的注释
       name:"厦门测试学校 real third commit"
       ,address:"厦门软件园"
